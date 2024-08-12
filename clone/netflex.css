@@ -6,7 +6,7 @@
 
 .navbar{
     height:60px;
-    width:1500px;
+    width:800px;
    display: flex;
    align-items: center;
 }
@@ -68,5 +68,88 @@ h2{
     margin:25px 0px 0px 150px;
     font-size: 50px;
 }
-
+.box1{
+    height:600px;
+    width:1425px;
+    background-color: black;
+    margin-top: 150px;
+    display:flex;
     
+}
+.boxtv{
+    height:400px;
+    width:500px;
+    background-color:black;
+    margin:100px 0px 0px 300px;
+    background-image: url(tv.png);
+    background-size: cover;
+    
+}
+
+    .box2{
+        height:192px;
+        width:450px;
+        background-color:black;
+        text-align: center;
+        margin:200px 0px 0px 50px;
+        color:white;
+        
+
+    }
+h4{
+    font-size: 50px;
+
+}
+h5{
+    font-size: 30px;
+    margin-top:30px;
+}
+.second{
+    height: 500px;
+    width:1425px;
+    background-color: black;
+    display:flex;
+}
+.line{
+    height:10px;
+    width:1425px;
+    background-color: darkslategrey;
+}
+.image{
+    height:400px;
+    width:500px;
+    background-color: black;
+    margin:50px 0px 0px 30px;
+    background-image: url("phone.jpeg");
+    background-size: cover;
+}
+.text2{
+    height:200px;
+    width:400px;
+    background-color:black;
+    margin:100px 0px 0px 300px;
+}
+.head{
+    font-size: 10px;
+    color:red;
+}
+h6{
+    font-size: 30px;
+    color:white;
+    text-align: center;
+}
+.parra{
+    font-size:10;
+    color:white;
+
+}
+.line2{
+    height:10px;
+    width:1425px;
+    background-color: darkslategrey;
+}
+.third{
+    height:500px;
+    width:1425px;
+    background-color: black;
+}
