@@ -18,7 +18,8 @@
     background-color:red;
     border-radius:5px;
     text-align:center;
-    margin:5px 0px 0px 950px;  
+    margin:5px 0px 0px 950px; 
+    color:white; 
 }
 h1{
     height:70px;
@@ -148,8 +149,68 @@ h6{
     width:1425px;
     background-color: darkslategrey;
 }
-.third{
+.kid{
     height:500px;
     width:1425px;
     background-color: black;
+    display:flex;
+}
+.kid2{
+    height:300px;
+    width:500px;
+    background-color:black;
+    margin:100px 0px 0px 50px;
+    background-image: url("kid.png");
+    background-size: cover;
+}
+.kid3{
+    height:300px;
+    width:500px;
+    background-color: black;
+    margin:100px 0px 0px 150px;
+}
+.kidh{
+    color:white;
+}
+.kidp{
+    color:white;
+    font-size: 25px;
+}
+.line3{
+    height:10px;
+    width:1425px;
+    background-color: darkslategrey; 
+}
+.question{
+    height:1000px;
+    width:1425px;
+    background-color: black;
+    padding-top: 50px;
+}
+
+.line4{
+    height:10px;
+    width:1425px;
+    background-color: darkslategrey; 
+}
+.box4{
+    height:400px;
+    width:1425px;
+    background-color: black;
+    padding-top: 72px;
+
+}
+.box5{
+    height:250px;
+    width:500px;
+    background-color:black;
+    margin-left: 250px;
+}
+.first1{
+    color:white;
+
+}
+.first2{
+    color:white;
+    font-size: 25px;
 }
