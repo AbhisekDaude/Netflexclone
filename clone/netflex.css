@@ -43,10 +43,7 @@ h3{
     color:#ffffff;
     font-size: 33;
 }
-body{
-    background-image: url("background.png");
-    background-size: cover;
-}
+
 .search{
     height:60;
     width:300;
@@ -73,7 +70,6 @@ h2{
     height:600px;
     width:1425px;
     background-color: black;
-    margin-top: 150px;
     display:flex;
     
 }
@@ -185,7 +181,8 @@ h6{
     height:1000px;
     width:1425px;
     background-color: black;
-    padding-top: 50px;
+    padding-top: 100px;
+    
 }
 
 .line4{
@@ -213,4 +210,164 @@ h6{
 .first2{
     color:white;
     font-size: 25px;
+}
+.inner{
+    height: 900px;
+    width: 900px;background-color:black;
+    margin-left: 300px;
+}
+.inner1{
+    color:#ffffff;
+  padding-top: 50px;
+}
+.but1{
+    background-color:black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.but2{
+    background-color:black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.but3{
+    background-color: black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.but4{
+    background-color: black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.but5{
+    background-color: black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.but6{
+    background-color:black;
+    height:50px;
+    width:700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+
+.one1{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.one2{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.one3{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.one4{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.one5{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.one6{
+    width:700px;
+    height:70px;
+    background-color:darkslategrey ;
+    align-items: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    
+}
+.but7{
+    background-color:black;
+    height:30px;
+    width:700px;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.input7{
+    height:60px;
+    width:700px;
+    margin-top: 10px;
+    margin-left: 150px;
+    background-color: black;
+}
+.search1{
+    margin-left: 80px;
+    height:45px;
+    width:300px;
+    border-radius: 5px;
+    align-items: center;
+    font-size: 20px;
+}
+.submit1{
+height:50px;
+width:100px;
+border-radius: 5px;
+background-color: red;
+font-size: 15px;
+color:white;
+}
+.but{
+    color:white;
+    font-size: 20px;
+}
+.main{
+    height:700px;
+    width:1425px;
+    background-image: url("background.png");
+    background-size: cover;
 }
