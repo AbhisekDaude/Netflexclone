@@ -387,23 +387,85 @@ padding-top: 70px;
 .footer1{
     height:32px;
     width:800px;
-    background-color: white;
-    margin-left: 150px;
-
+    background-color: black;
+    margin-left: 200px;
+    font-size: 20px;
+    color:white;
+   
     
 }
 .footer2{
     height:200px;
     width:1000px;
-    background-color: blue;
+    background-color: black;
     margin-top: 20px;
     margin-left: 150px;
+    display: flex;
+    font-size: 20px;
+    color:white;
+    
 
 }
 .footer3{
-    height:32px;
-    width:130px;
-    background-color: pink;
+    height:50px;
+    width:900px;
+    background-color: black;
     margin-top: 30px;
-    margin-left: 150px;
+    margin-left: 200px;
 }
+.footer4{
+    height:60px;
+    width:900px;
+    background-color:black;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    color:white;
+
+}
+.list1 li{
+    margin-bottom: 15px;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 25px;
+   
+    
+   
+}
+.list2 li{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+  
+}
+.list3 li{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.list4 li{
+    list-style-type: none;
+     margin-top: 20px;
+     margin-left: 25px;
+     margin-bottom: 15px;
+}
+.select1{
+    height:50px;
+    width:200px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: darkslategrey; 
+    color:white;
+    
+}
+
+a{
+    color:white;
+}
+a:hover{
+    color:red;
+}
+
+
