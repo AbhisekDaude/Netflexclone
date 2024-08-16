@@ -371,3 +371,39 @@ color:white;
     background-image: url("background.png");
     background-size: cover;
 }
+.line4{
+    height:10px;
+    width:1425px;
+    background-color: darkslategrey; 
+}
+
+.footer{
+height:500px;
+width:1425px;
+background-color: black;
+padding-top: 70px;
+
+}
+.footer1{
+    height:32px;
+    width:800px;
+    background-color: white;
+    margin-left: 150px;
+
+    
+}
+.footer2{
+    height:200px;
+    width:1000px;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 150px;
+
+}
+.footer3{
+    height:32px;
+    width:130px;
+    background-color: pink;
+    margin-top: 30px;
+    margin-left: 150px;
+}
