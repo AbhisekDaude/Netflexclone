@@ -1,5 +1,6 @@
 *{
-    margin:0;
+    margin: 0px;
+    padding: 0px;
     font-family:Arial;
     border:border-box;
 }
@@ -18,7 +19,7 @@
     background-color:red;
     border-radius:5px;
     text-align:center;
-    margin:5px 0px 0px 950px; 
+    margin:5px 0px 0px 850px; 
     color:white; 
 }
 h1{
@@ -480,4 +481,42 @@ a:hover{
 
 }
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    div.navbar{
+        border: 5px solid red;
+        height:100px;
+        width: 50%;
+    }
+    div.navbar h2{
+        border: 5px solid black;
+        font-size: 60px;
+    }
+    input.sign{
+        border:4px solid green;
+        height:90px;
+        width: 200px;
+    }
+    input{
+        width: 200px;
+        /* padding:40px; */
+        padding:10px 40px 10px 40px;
+        height: 60%;
+        align-items: center;
+    }
+    input.sign[type="text"] {
+        font-size: 30px; /* Increase this value to make the text larger */
+        padding: 10px;   /* Optional: Adjust padding to make the input box itself larger */
+    }
+    .search{
+        border:5px solid red;
+        width: 20%;
+        height: 30px;
+    }
+    .submit{
+        border:5px solid red;
+        width: 20%;
+        height: 50px;
+    }
+}
 
