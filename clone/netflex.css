@@ -484,7 +484,6 @@ a:hover{
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     div.navbar{
-        border: 5px solid red;
         height:100px;
         width: 50%;
     }
